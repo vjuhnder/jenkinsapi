@@ -1,3 +1,4 @@
+import jenkinsapi
 from jenkinsapi.jenkins import Jenkins
 
 def get_server_instance():
